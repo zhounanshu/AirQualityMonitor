@@ -1,0 +1,11 @@
+1、利用ckan_api_code中的文件新建自己的数据资源。
+
+
+1、删除先前加入的wifi库，添加新的WiFi文件到你的默认库文件夹中
+
+
+2、wifi设置时,在basic setting界面domain or ip 改为10.50.6.150.
+（之前为202.121.178.242，现在不用）。
+
+
+3、WF代码，只需将group_num和resource改为自己的即可！
